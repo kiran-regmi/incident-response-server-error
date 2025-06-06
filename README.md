@@ -23,8 +23,8 @@ How is the problem started?
 
 ## Responding to the Incident:
 ### Below are some resources to explore:
-- ***[Top 10 Common types of Cybersecurity Attacks](infocyte.com)***
-- ***[11 Types of Phishing + Real-Life Examples](pandasecurity.com)*** 
+- ***[Top 10 Common types of Cybersecurity Attacks](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)***
+- ***[11 Types of Phishing + Real-Life Examples](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)*** 
 - ***[8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog] ()***
 - ***[Battling Ransomware: How to Respond to a Ransomware Incident](forbes.com)***
 - ***[Frequently Asked Questions - Ransomware | Information Security Office](berkeley.edu)***
