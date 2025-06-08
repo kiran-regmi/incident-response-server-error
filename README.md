@@ -10,7 +10,7 @@ At Commonwealth Bank, it is the responsibility of the cyber security team to dea
 # Table of Content 
 * Investigating The Incident
 * Listing of Resources to Explore
-* Investing Summary Report
+* Investingation Summary Report
 
 ## Investigating the Incident 
 How is the problem started?
