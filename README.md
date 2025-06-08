@@ -1,16 +1,16 @@
 # Dealing with compromised server 
 At Commonwealth Bank, it is the responsibility of the cyber security team to deal with daily cyber related incidents. Today, the team leader has nofied that there has been a soft complain that server might have been compromised. **What would you do?**
 
-In this project, we will try to answer the following:
-* What kind of attack has happened and why do you think so?
+**In this project**, we will try to answer the following:
+* What kind of attack has happened and why do we think so?
 * As a cyber security analyst, what are the next steps to take? 
-* How would you contain, resolve and recover from this incident? 
-* What activities should be performed post-incident?
+* How would we contain, resolve and recover from this incident? 
+* What activities should we performed post-incident?
 
 # Table of Content 
 * Investigating the incident
 * Responsding to the incident
-* Solutions
+* Providing Solutions
 * Post-incident activies
 
 ## Investigating the Incident 
@@ -25,10 +25,10 @@ How is the problem started?
 ### Below are some resources to explore:
 - ***[Top 10 Common types of Cybersecurity Attacks](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)***
 - ***[11 Types of Phishing + Real-Life Examples](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)*** 
-- ***[8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog] ()***
-- ***[Battling Ransomware: How to Respond to a Ransomware Incident](forbes.com)***
-- ***[Frequently Asked Questions - Ransomware | Information Security Office](berkeley.edu)***
-- ***[What to do before and after a cybersecurity breach?](american.edu)***
+- ***[8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog](https://www.emsisoft.com/en/blog/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)***
+- ***[Battling Ransomware: How to Respond to a Ransomware Incident](https://www.forbes.com/councils/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/)***
+- ***[Frequently Asked Questions - Ransomware | Information Security Office](https://security.berkeley.edu/faq/ransomware/)***
+- ***[What to do before and after a cybersecurity breach?](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)***
 
 
 
