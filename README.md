@@ -51,9 +51,77 @@ How is the problem started?
 * Hold a lesson-learnt meeting. 
 * Educate: Create a cyber awareness program for employees. Such programs help employees identify future phishing emails.
 
+# 🕵️‍♀️ Investigation Summary Report
+## 🧩 Task One – Type of Attack & Rationale
+### 🔍 Attack Type: Phishing + Malware Infection (Possible Ransomware)
+* **Phising:**
+The attacker impersonated the company’s HR department, tricking employees into updating their timesheets via a fraudulent email. This social engineering tactic is designed to harvest sensitive credentials.
+
+* **Malware Execution:**
+Once the phishing email was acted upon, a malicious payload was likely executed. Symptoms include:
+    - Users unable to open Word documents they previously could.
+    - Indicates potential ransomware or virus infection.
+![Screen Shot 2025-06-13 at 2 09 55 PM](https://github.com/user-attachments/assets/bf32f52a-afbe-495b-9f47-51524ac79111)
 
 
+## 🛡 Task Two – Immediate Next Steps (Cybersecurity Analyst Actions)
+### 📝 Begin documenting the investigation in a detailed and auditable format.
 
+**⚖️ Prioritize the incident based on:**
+
+* Functional Impact
+* Information Impact
+
+Recovery Effort
+
+🔐 Advise users to:
+
+Change all login credentials
+
+Update and strengthen passwords
+
+Review and reset security questions
+
+🔧 Task Three – Containment, Resolution & Recovery
+✅ Key Actions to Take:
+🔎 Identify and mitigate all exploited vulnerabilities
+
+🧼 Remove malware from all affected endpoints and systems
+
+🔁 Restore systems to a secure, operationally ready state
+
+📈 Verify system integrity: Ensure normal functionality has returned
+
+🛡 Monitor for reoccurrence or similar attack patterns
+
+🧠 Task Four – Post-Incident Activities
+📄 Create a detailed follow-up report documenting:
+
+Attack vector
+
+Affected systems
+
+Resolution steps taken
+
+Recovery timeline
+
+🧩 Conduct a "Lessons Learned" meeting:
+
+Involve all relevant stakeholders
+
+Discuss response effectiveness and gaps
+
+Plan improvement actions
+
+🎓 Launch a Cyber Awareness Program:
+
+Educate employees on phishing red flags
+
+Promote safe email and document handling practices
+
+Reduce future risk through behavioral change
+
+📌 Note: This report should be updated as new findings emerge and remediations are completed. Store it in a central GitHub repo for visibility and compliance tracking.
 
 
 
