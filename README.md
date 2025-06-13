@@ -1,13 +1,4 @@
 
-### List of resources to explore:
-- ***[Top 10 Common types of Cybersecurity Attacks](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)***
-- ***[11 Types of Phishing + Real-Life Examples](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)*** 
-- ***[8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog](https://www.emsisoft.com/en/blog/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)***
-- ***[Battling Ransomware: How to Respond to a Ransomware Incident](https://www.forbes.com/councils/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/)***
-- ***[Frequently Asked Questions - Ransomware | Information Security Office](https://security.berkeley.edu/faq/ransomware/)***
-- ***[What to do before and after a cybersecurity breach?](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)***
-
-
 # 🛡️ Summary: Dealing with a Compromised Server
 **At Commonwealth Bank,** the Cyber Security Team handles daily threats and incidents to maintain the organization’s digital integrity.
 
