@@ -1,4 +1,4 @@
-# Dealing with compromised server 
+# Summary (Dealing with compromised server)
 At Commonwealth Bank, it is the responsibility of the cyber security team to deal with daily cyber related incidents. Today, the team leader has nofied that there has been a soft complain that server might have been compromised. **What would you do?**
 
 **In this project**, we will try to answer the following:
@@ -28,6 +28,84 @@ How is the problem started?
 - ***[Battling Ransomware: How to Respond to a Ransomware Incident](https://www.forbes.com/councils/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/)***
 - ***[Frequently Asked Questions - Ransomware | Information Security Office](https://security.berkeley.edu/faq/ransomware/)***
 - ***[What to do before and after a cybersecurity breach?](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)***
+
+
+🛡️ Summary: Dealing with a Compromised Server
+At Commonwealth Bank, the Cyber Security Team handles daily threats and incidents to maintain the organization’s digital integrity.
+
+Today, a potential server compromise has been brought to the team's attention through a soft complaint. This project aims to investigate and respond to this incident.
+
+⚠️ Challenge:
+The team leader has flagged suspicious activity suggesting a server may have been compromised.
+What would you do?
+
+🎯 Project Objectives
+In this project, we aim to answer the following key questions:
+
+What type of attack occurred? How can we be sure?
+
+What are the immediate next steps for a cybersecurity analyst?
+
+How do we contain, resolve, and recover from this incident?
+
+What activities are needed post-incident to learn and improve?
+
+🧭 Table of Contents
+🔍 Investigating the Incident
+
+📚 Resources to Explore
+
+📝 Investigation Summary Report
+
+🔍 Investigating the Incident
+🕒 Timeline of Events
+10:30 AM – Initial Report
+An employee reports receiving an email from HR requesting timesheet updates.
+
+After clicking the provided link, they’re redirected to a fake company portal.
+
+Upon entering credentials, an error page appears.
+
+Screenshot:
+
+
+2:00 PM – Escalation
+8 similar reports flood the IT Service Desk.
+
+Investigation reveals 62 employees (mainly from the Risk Department) received the same phishing email.
+
+The fake site was designed to:
+
+Steal credentials
+
+Download and execute malicious software
+
+3:50 PM – Symptoms of Malware
+Multiple employees report:
+
+Inability to access shared drives
+
+Receiving errors when opening previously accessible Word documents
+
+These signs strongly indicate a possible malware infection—potentially ransomware.
+
+📚 Resources to Explore
+Expand your understanding of the threat landscape and best practices:
+
+🔗 Top 10 Common Types of Cybersecurity Attacks – Datto
+
+🔗 11 Types of Phishing + Real-Life Examples – Panda Security
+
+🔗 Ransomware Response: 8 Critical Steps – Emsisoft
+
+🔗 How to Respond to Ransomware – Forbes Tech Council
+
+🔗 Ransomware FAQ – UC Berkeley Information Security Office
+
+🔗 What to Do Before and After a Cybersecurity Breach – AU CyberGov
+
+📝 Investigation Summary Report →
+📍 Refer to the “Investigation Summary Report” section for an in-depth breakdown of the tasks, responses, and learnings from this incident.
 
 # 🕵️‍♀️ Investigation Summary Report
 ## 🧩 Task One – Type of Attack & Rationale
