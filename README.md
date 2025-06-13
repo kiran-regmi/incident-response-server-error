@@ -25,11 +25,11 @@ In this project, we aim to answer the following key questions:
 * **What activities are needed post-incident** to learn and improve?
 
 # 🧭 Table of Contents
-* 🔍 Investigating the Incident
+* 🔍 [Investigating the Incident](# 📚Resources to Explore)
 * 📚 Resources to Explore
 * 📝 Investigation Summary Report
 
-# 🔍 Investigating the Incident
+# 🔍 Investigating the Incident:
 ## 🕒 Timeline of Events
 #### 10:30 AM – Initial Report
 * An employee reports receiving an email from HR requesting timesheet updates.
@@ -52,7 +52,7 @@ In this project, we aim to answer the following key questions:
 
       - These signs strongly indicate a possible malware infection—potentially ransomware.
 
-## 📚 Resources to Explore
+# 📚 Resources to Explore:
 Expand your understanding of the threat landscape and best practices:
 
 * 🔗 [Top 10 Common Types of Cybersecurity Attacks – Datto](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)
@@ -65,7 +65,7 @@ Expand your understanding of the threat landscape and best practices:
 📝 Investigation Summary Report →
 📍 Refer to the “Investigation Summary Report” section for an in-depth breakdown of the tasks, responses, and learnings from this incident.
 
-# 🕵️‍♀️ Investigation Summary Report
+# 🕵️‍♀️ Investigation Summary Report:
 ## 🧩 Task One – Type of Attack & Rationale
 ### 🔍 Attack Type: Phishing + Malware Infection (Possible Ransomware)
 * **Phising:**
