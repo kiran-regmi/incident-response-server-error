@@ -1,16 +1,3 @@
-# Summary (Dealing with compromised server)
-At Commonwealth Bank, it is the responsibility of the cyber security team to deal with daily cyber related incidents. Today, the team leader has nofied that there has been a soft complain that server might have been compromised. **What would you do?**
-
-**In this project**, we will try to answer the following:
-* Task one - What kind of attack has happened and why do we think so?
-* Task two - As a cyber security analyst, what are the next steps to take? 
-* Task three - How would we contain, resolve and recover from this incident? 
-* Task four - What activities should we performed post-incident?
-
-# Table of Content 
-* Investigating The Incident
-* Listing of Resources to Explore
-* Investingation Summary Report
 
 ## Investigating the Incident 
 How is the problem started?
@@ -30,64 +17,49 @@ How is the problem started?
 - ***[What to do before and after a cybersecurity breach?](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)***
 
 
-🛡️ Summary: Dealing with a Compromised Server
-At Commonwealth Bank, the Cyber Security Team handles daily threats and incidents to maintain the organization’s digital integrity.
+# 🛡️ Summary: Dealing with a Compromised Server
+**At Commonwealth Bank,** the Cyber Security Team handles daily threats and incidents to maintain the organization’s digital integrity.
 
-Today, a potential server compromise has been brought to the team's attention through a soft complaint. This project aims to investigate and respond to this incident.
+Today, **a potential server** has been brought to the team's attention through a soft complaint. This project aims to investigate and respond to this incident.
 
-⚠️ Challenge:
-The team leader has flagged suspicious activity suggesting a server may have been compromised.
-What would you do?
+![Screen Shot 2025-06-13 at 2 33 34 PM](https://github.com/user-attachments/assets/11b4a985-dd20-49eb-8c00-6eaf3ae9d44d)
 
-🎯 Project Objectives
+
+# 🎯 Project Objectives
 In this project, we aim to answer the following key questions:
 
-What type of attack occurred? How can we be sure?
+* **What type of attack occurred?** How can we be sure?
+* **What are the immediate next steps** for a cybersecurity analyst?
+* **How do we contain, resolve, and recover** from this incident?
+* **What activities are needed post-incident** to learn and improve?
 
-What are the immediate next steps for a cybersecurity analyst?
+# 🧭 Table of Contents
+* 🔍 Investigating the Incident
+* 📚 Resources to Explore
+* 📝 Investigation Summary Report
 
-How do we contain, resolve, and recover from this incident?
+# 🔍 Investigating the Incident
+## 🕒 Timeline of Events
+#### 10:30 AM – Initial Report
+* An employee reports receiving an email from HR requesting timesheet updates.
+* After clicking the provided link, they’re redirected to a fake company portal.
+* Upon entering credentials, an error page appears.
 
-What activities are needed post-incident to learn and improve?
+![Screen Shot 2025-06-13 at 2 40 57 PM](https://github.com/user-attachments/assets/ac72a0ef-a94e-439f-8f26-03c71da63741)
 
-🧭 Table of Contents
-🔍 Investigating the Incident
+#### 2:00 PM – Escalation
+* 8 similar reports flood the IT Service Desk.
+* Investigation reveals 62 employees (mainly from the Risk Department) received the same phishing email.
+* The fake site was designed to:
+      - Steal credentials
+      - Download and execute malicious software
 
-📚 Resources to Explore
+#### 3:50 PM – Symptoms of Malware
+**Multiple employees report:**
+* Inability to access shared drives
+* Receiving errors when opening previously accessible Word documents
 
-📝 Investigation Summary Report
-
-🔍 Investigating the Incident
-🕒 Timeline of Events
-10:30 AM – Initial Report
-An employee reports receiving an email from HR requesting timesheet updates.
-
-After clicking the provided link, they’re redirected to a fake company portal.
-
-Upon entering credentials, an error page appears.
-
-Screenshot:
-
-
-2:00 PM – Escalation
-8 similar reports flood the IT Service Desk.
-
-Investigation reveals 62 employees (mainly from the Risk Department) received the same phishing email.
-
-The fake site was designed to:
-
-Steal credentials
-
-Download and execute malicious software
-
-3:50 PM – Symptoms of Malware
-Multiple employees report:
-
-Inability to access shared drives
-
-Receiving errors when opening previously accessible Word documents
-
-These signs strongly indicate a possible malware infection—potentially ransomware.
+      - These signs strongly indicate a possible malware infection—potentially ransomware.
 
 📚 Resources to Explore
 Expand your understanding of the threat landscape and best practices:
