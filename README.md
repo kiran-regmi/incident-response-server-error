@@ -71,55 +71,42 @@ Once the phishing email was acted upon, a malicious payload was likely executed.
 
 * Functional Impact
 * Information Impact
+* Recovery Effort
 
-Recovery Effort
+**🔐 Advise users to:**
 
-🔐 Advise users to:
+* Change all login credentials
+* Update and strengthen passwords
+* Review and reset security questions
 
-Change all login credentials
+## 🔧 Task Three – Containment, Resolution & Recovery
+### ✅ Key Actions to Take:
+* 🔎 Identify and mitigate all exploited vulnerabilities
+* 🧼 Remove malware from all affected endpoints and systems
+* 🔁 Restore systems to a secure, operationally ready state
+* 📈 Verify system integrity: Ensure normal functionality has returned
+* 🛡 Monitor for reoccurrence or similar attack patterns
 
-Update and strengthen passwords
+  
+## 🧠 Task Four – Post-Incident Activities
+### 📄 Create a detailed follow-up report documenting:
 
-Review and reset security questions
+* Attack vector
+* Affected systems
+* Resolution steps taken
+* Recovery timeline
 
-🔧 Task Three – Containment, Resolution & Recovery
-✅ Key Actions to Take:
-🔎 Identify and mitigate all exploited vulnerabilities
+### 🧩 Conduct a "Lessons Learned" meeting:
 
-🧼 Remove malware from all affected endpoints and systems
+* Involve all relevant stakeholders
+* Discuss response effectiveness and gaps
+* Plan improvement actions
 
-🔁 Restore systems to a secure, operationally ready state
+### 🎓 Launch a Cyber Awareness Program:
 
-📈 Verify system integrity: Ensure normal functionality has returned
-
-🛡 Monitor for reoccurrence or similar attack patterns
-
-🧠 Task Four – Post-Incident Activities
-📄 Create a detailed follow-up report documenting:
-
-Attack vector
-
-Affected systems
-
-Resolution steps taken
-
-Recovery timeline
-
-🧩 Conduct a "Lessons Learned" meeting:
-
-Involve all relevant stakeholders
-
-Discuss response effectiveness and gaps
-
-Plan improvement actions
-
-🎓 Launch a Cyber Awareness Program:
-
-Educate employees on phishing red flags
-
-Promote safe email and document handling practices
-
-Reduce future risk through behavioral change
+* Educate employees on phishing red flags
+* Promote safe email and document handling practices
+* Reduce future risk through behavioral change
 
 📌 Note: This report should be updated as new findings emerge and remediations are completed. Store it in a central GitHub repo for visibility and compliance tracking.
 
