@@ -55,9 +55,9 @@ In this project, we aim to answer the following key questions:
 # 📚 Resources to Explore:
 Expand your understanding of the threat landscape and best practices:
 
-* 🔗 [Top 10 Common Types of Cybersecurity Attacks – Datto](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)
-* 🔗 [11 Types of Phishing + Real-Life Examples – Panda Security](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)
-* 🔗 [Ransomware Response: 8 Critical Steps – Emsisoft](https://www.emsisoft.com/en/blog/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)
+* 🔗 [Top 10 Common Types of Cybersecurity Attacks – Datto](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)**
+* 🔗 [11 Types of Phishing + Real-Life Examples – Panda Security](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)***
+* 🔗 [Ransomware Response: 8 Critical Steps – Emsisoft](https://www.emsisoft.com/en/blog/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)*
 * 🔗 [How to Respond to Ransomware – Forbes Tech Council](https://www.forbes.com/councils/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/)
 * 🔗 [Ransomware FAQ – UC Berkeley Information Security Office](https://security.berkeley.edu/faq/ransomware/)
 * 🔗 [What to Do Before and After a Cybersecurity Breach – AU CyberGov](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)
