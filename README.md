@@ -1,13 +1,4 @@
 
-## Investigating the Incident 
-How is the problem started?
-* 10:30 a.m. – The IT Service Desk receives a report from one of our colleagues at the bank that they have received an email from HR telling all employees to update their timesheets in the company’s support portal so the timesheets can be approved on time by their line managers against the next pay day. The colleague clicked the link in the email that opened what looked like the portal. However, following the employee's input of the user credentials, an unfamiliar error page appeared like the one below.
-![Screen Shot 2025-06-06 at 5 39 05 PM](https://github.com/user-attachments/assets/d9435f78-86cb-4bd7-8dcc-4ff24c09a5d2)
-
-* 2:00 p.m. – Eight more reports of emails similar to the one reported earlier are received by the IT Service Desk. Upon further investigation, it was found that 62 colleagues across the Risk Department received the same email over the course of two days.  The emails directed the users to a fake website to steal their usernames and passwords and download a harmful program.
-* 3:50 p.m. – The IT Service Desk receives calls and emails from more colleagues that the file-shares are not opening and they receive an error when trying to open a Word document they have always been able to open.
-
-
 ### List of resources to explore:
 - ***[Top 10 Common types of Cybersecurity Attacks](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)***
 - ***[11 Types of Phishing + Real-Life Examples](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)*** 
@@ -61,20 +52,15 @@ In this project, we aim to answer the following key questions:
 
       - These signs strongly indicate a possible malware infection—potentially ransomware.
 
-📚 Resources to Explore
+## 📚 Resources to Explore
 Expand your understanding of the threat landscape and best practices:
 
-🔗 Top 10 Common Types of Cybersecurity Attacks – Datto
-
-🔗 11 Types of Phishing + Real-Life Examples – Panda Security
-
-🔗 Ransomware Response: 8 Critical Steps – Emsisoft
-
-🔗 How to Respond to Ransomware – Forbes Tech Council
-
-🔗 Ransomware FAQ – UC Berkeley Information Security Office
-
-🔗 What to Do Before and After a Cybersecurity Breach – AU CyberGov
+* 🔗 [Top 10 Common Types of Cybersecurity Attacks – Datto](https://www.datto.com/blog/common-types-of-cyber-security-attacks/)
+* 🔗 [11 Types of Phishing + Real-Life Examples – Panda Security](https://www.pandasecurity.com/en/mediacenter/types-of-phishing/)
+* 🔗 [Ransomware Response: 8 Critical Steps – Emsisoft](https://www.emsisoft.com/en/blog/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)
+* 🔗 [How to Respond to Ransomware – Forbes Tech Council](https://www.forbes.com/councils/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/)
+* 🔗 [Ransomware FAQ – UC Berkeley Information Security Office](https://security.berkeley.edu/faq/ransomware/)
+* 🔗 [What to Do Before and After a Cybersecurity Breach – AU CyberGov](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf)
 
 📝 Investigation Summary Report →
 📍 Refer to the “Investigation Summary Report” section for an in-depth breakdown of the tasks, responses, and learnings from this incident.
